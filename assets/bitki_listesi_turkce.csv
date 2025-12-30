@@ -1,0 +1,88 @@
+
+Bitki No,Geleneksel Adı,Bilimsel Adı,Zehirlilik Durumu,Yenilebilir mi,Türkiye'de Coğrafya,Genel Açıklama
+1,Kazdağı Göknarı,Abies_nordmanniana_equi-trojani,Zehirli değil,Hayır,Kazdağı (Kaz Dağı) ve Kuzeybatı Türkiye,Troya göknarı; 30–40 m'ye kadar uzayan herdem yeşil ağaç; dağ ormanlarında yetişir.
+2,Dağ Akçaağacı,Acer_pseudoplatanus,Zehirli değil,Evet (öz suyu),Kuzey Anadolu,Dağ akçaağacı; büyük yaprak döken ağaç; öz suyu şurup yapımında kullanılır; odunu müzik aletleri için değerlidir.
+3,Civanperçemi,Achillea_millefolium,Hafif toksik (aşırı kullanım),Evet (genç yapraklar),"Marmara, Kuzey ve Doğu Anadolu",Civanperçemi; tüylü yapraklı çok yıllık bir bitki; şifalı ot ve aroma verici olarak kullanılır.
+4,Kızılağaç,Alnus_glutinosa,Zehirli değil,Hayır,"Trakya, Marmara, Batı ve Doğu Karadeniz",Kızılağaç; 20–30 m’ye kadar büyüyen ağaç; nemli topraklarda saf veya karışık ormanlar oluşturur.
+5,İmparator ( Fatih Terim ) Mantarı,Amanita_caesarea,Zehirli değil,Evet,Akdeniz ve Ege ormanları,Turuncu şapkalı yenilebilen bir mantar; Akdeniz’de çok değerlidir; zehirli benzer türlerle karıştırılmamasına dikkat edilmelidir.
+6,Sinek Mantarı,Amanita_muscaria,Zehirli (halüsinojen),Hayır,Ormanlar ve parklar,Kırmızı şapkalı sinek mantarı; zehirli ve halüsinojeniktir; ağustos-kasım arasında orman ve parklarda görülür.
+7,Panter Mantarı,Amanita_pantherina,Zehirli,Hayır,Ormanlar,Panter mantarı; kahverengi şapkasında beyaz benekler vardır; halüsinojenik ve zehirlidir; ormanlarda büyür.
+8,Köygöçüren,Amanita_phalloides,Çok zehirli,Hayır,Ormanlar,Köygöçüren mantarı; zeytin yeşili şapkası vardır; ölümcül amatoksinler içerir; yenilebilir mantarlara benzer.
+9,Kocayemiş,Arbutus_unedo,Zehirli değil,Evet,"Marmara, Ege, Akdeniz ve Karadeniz",Kocayemiş; herdem yeşil çalı veya ağaç; kırmızı meyveleri yenilebilir ve likör yapımında kullanılır; makiliklerde yetişir.
+10,Yabani Kuşkonmaz,Asparagus_acutifolius,Zehirli değil,Evet,Akdeniz,Yabani kuşkonmaz; dikenli çok yıllık bitki; ince sürgünleri yenilir; çalılıklarda yetişir.
+11,Çiriş Otu,Asphodelus_aestivus,Zehirli değil,Evet,Akdeniz ve Güneydoğu,Çiriş otu; uzun çiçek sapları olan çok yıllık bir bitki; soğanı ve genç sürgünleri sebze olarak yenilir.
+12,Geven,Astragalus_spp,Zehirli değil,Hayır,İç Anadolu ve Doğu Anadolu,Geven; dikenli baklagil bitkileri; kitre zamkı ve tıbbi amaçlarla kullanılır; genellikle yenmez.
+13,Güzelavrat Otu,Atropa_belladonna,Çok zehirli,Hayır,Nemli ormanlık alanlar,Güzelavrat otu; mor çiçekli ve siyah meyveli çalı; tropan alkaloidler içerir; çok zehirlidir.
+14,Ayı Mantarı,Boletus_edulis,Zehirli değil,Evet,İğne yapraklı ormanlar,Ayı mantarı; büyük kahverengi mantar; yenilebilir ve çok değerlidir; çam ve ladin ormanlarında yetişir.
+15,Horoz Mantarı,Cantharellus_cibarius,Zehirli değil,Evet,Iğne ve geniş yapraklı ormanlar,Horoz mantarı; sarı huni şeklinde mantar; yenilebilir; karışık ormanlarda bulunur.
+16,Gürgen,Carpinus_betulus,Zehirli değil,Hayır,Kuzey Anadolu,Gürgen; yaprak döken bir ağaç; sert odunu alet yapımında kullanılır; yenilebilir değildir.
+17,Kestane,Castanea_sativa,Zehirli değil,Evet,Karadeniz ve Marmara,Kestane; yenilebilir tohumlar veren büyük bir yaprak döken ağaç; Türkiye’nin kuzeyinde ormanlar oluşturur.
+18,Toros Sediri,Cedrus_libani,Zehirli değil,Hayır,Toros Dağları ve Lübnan,Toros sediri; herdem yeşil iğne yapraklı ağaç; kerestesi değerlidir; yenmez.
+19,Peygamber Çiçeği,Centaurea_cyanus,Zehirli değil,Evet (çiçekler),Tarla ve meralar,Peygamber çiçeği; mavi çiçekli tek yıllık bitki; taç yaprakları dekoratif olarak yenilir ve çay yapılır.
+20,Keçiboynuzu,Ceratonia_siliqua,Zehirli değil,Evet,Ege ve Akdeniz,Keçiboynuzu; baklaları tatlı posalıdır ve keçiboynuzu unu ile şurubu yapılır; Akdeniz kıyılarında yetişir.
+21,Erguvan,Cercis_siliquastrum,Zehirli değil,Evet (tomurcuklar),Marmara ve Ege,Erguvan; pembe çiçekli süs ağacı; çiçek tomurcukları turşu yapılarak veya salatalarda kullanılır.
+22,Sirken,Chenopodium_album,Zehirli değil,Evet,Türkiye genelinde,Sirken; yıllık bir yabani ot; ıspanak benzeri yaprakları yenilebilir; işlenmiş topraklarda yetişir.
+23,Acı Çiğdem,Colchicum_autumnale,Çok zehirli,Hayır,Dağ çayırları,Acı çiğdem; kolşisin adlı zehirli bir alkaloid içerir; safran benzerine rağmen tüm kısımları zehirlidir.
+24,Baldıran,Conium_maculatum,Çok zehirli,Hayır,Nemli alanlar,Baldıran; gövdeleri mor lekeli iki yıllık ot; koniin alkaloidi içerir; yenildiğinde ölümcüldür.
+25,Kızılcık,Cornus_mas,Zehirli değil,Evet,Karadeniz ve Marmara,Kızılcık; ekşi kırmızı meyveleri reçel ve şurup yapımında kullanılan ağaççık/çalı.
+26,Fındık,Corylus_avellana,Zehirli değil,Evet,Karadeniz,Fındık; yenilebilir fındıklar veren ağaç; nemli ormanlarda ocaklar oluşturur.
+27,Alıç,Crataegus_monogyna,Zehirli değil,Evet,Türkiye genelinde,Alıç; beyaz çiçekli çalı veya küçük ağaç; kırmızı meyveleri marmelat ve şifalı çay yapımında kullanılır.
+28,Çiğdem,Crocus_spp,Zehirli türler de var,Bazı türler (safran) yenilebilir,"İç Anadolu, Ege",Çiğdem; safran baharatını veren Crocus sativus dahil olmak üzere birçok tür içerir; bazı süs türleri zehirli olabilir.
+29,Siklamen,Cyclamen_spp,Hafif zehirli,Hayır,Marmara ve Akdeniz,Siklamen; baş aşağı duran çiçekli yumrulu bitkiler; yumruları saponin içerir ve yenmez.
+30,Yüksük Otu,Digitalis_purpurea,Çok zehirli,Hayır,Nemli orman açıklıkları,Yüksük otu; mor çiçekli iki yıllık bitki; yaprakları kalp glikozitleri içerir; zehirlidir.
+31,İğde,Elaeagnus_angustifolia,Zehirli değil,Evet,İç ve Doğu Anadolu,İğde; gümüşi yapraklı küçük ağaç; hoş kokulu çiçekleri ve tatlı yenilebilir meyveleri vardır.
+32,Funda,Erica_arborea,Zehirli değil,Hayır,Akdeniz,Funda; küçük beyaz çiçekleri olan herdem yeşil çalı; pipo yapımında kullanılan odunu vardır; yenmez.
+33,Doğu Kayını,Fagus_orientalis,Zehirli değil,Evet (tohumlar sınırlı kullanım),Karadeniz,Doğu kayını; büyük yaprak döken ağaç; tohumları az miktarda yenebilir; sık ormanlar oluşturur.
+34,Yabani Çilek,Fragaria_vesca,Zehirli değil,Evet,Ormanlık alanlar,Yabani çilek; alçak boylu bir bitki; tatlı kırmızı meyveler verir; yaprakları çay olarak kullanılır.
+35,Çiçekli Dişbudak,Fraxinus_ornus,Zehirli değil,Evet (manna),Güneybatı Anadolu,Çiçekli dişbudak; küçük bir ağaç; tatlı sakız (manna) salgılar ve hafif müshil olarak kullanılır; süs ağacıdır.
+36,Kardelen,Galanthus_spp,Hafif zehirli,Hayır,Karadeniz ve Marmara,Kardelen; beyaz sarkık çiçekli soğanlı bitkiler; alkaloid içerir ve yenilmez.
+37,Beyin Mantarı,Gyromitra_esculenta,Zehirli,Hayır,İğne yapraklı ormanlar,Beyin mantarı; kıvrımlı kızıl kahverengi şapkası vardır; metil hidrazin içerir; çiğ veya az pişmiş tüketildiğinde zehirlidir.
+38,Sarı Kantaron,Hypericum_perforatum,Hafif zehirli,Hayır,Türkiye genelinde,Sarı kantaron; sarı çiçekli şifalı ot; içeriğindeki bileşikler hayvanlarda ışığa duyarlılık yapabilir.
+39,Boylu Ardıç,Juniperus_excelsa,Zehirli değil,Evet (meyve),Doğu ve Güney Anadolu,Boylu ardıç; iğne yapraklı bir ağaç; mavimsi meyveleri baharat ve tıbbi amaçlarla kullanılır.
+40,Kanlıca Mantarı,Lactarius_deliciosus,Zehirli değil,Evet,"Aegean, Akdeniz ve Batı Karadeniz",Kanlıca mantarı; havuç rengi süt salgılayan turuncu şapkalı mantar; yenilebilir ve Türkiye’de popülerdir; çamların altında yetişir.
+41,Defne,Laurus_nobilis,Zehirli değil,Evet,"Marmara, Ege ve Akdeniz",Defne; herdem yeşil ağaç; aromatik yaprakları baharat olarak kullanılır; meyvelerinden defne yağı elde edilir.
+42,Sığla Ağacı,Liquidambar_orientalis,Zehirli değil,Hayır,"Güneybatı Anadolu (Muğla, Denizli)",Sığla ağacı; yaprak döken ağaç; hoş kokulu reçine üretir; parfüm ve geleneksel tıpta kullanılır.
+43,Ebegümeci,Malva_sylvestris,Zehirli değil,Evet,Türkiye genelinde,Ebegümeci; mor çiçekli bir ot; genç yaprakları ve çiçekleri salata veya yemeklerde yenir.
+44,Papatya,Matricaria_recutita,Zehirli değil,Evet,Türkiye genelinde,Papatya; papatya benzeri bitki; çiçekleri sakinleştirici çay ve tıbbi amaçlarla kullanılır.
+45,Yabani Nane,Mentha_longifolia,Zehirli değil,Evet,Türkiye genelinde,Yabani nane; aromatik çok yıllık bitki; yaprakları çay ve tatlandırıcı olarak kullanılır; dere kenarlarında yetişir.
+46,Kuzu Göbeği,Morchella_esculenta,Zehirli değil,Evet,Ormanlık alanlar,Kuzu göbeği mantarı; petek benzeri şapkalı; yenilebilir ve çok değerlidir; yemeden önce pişirilmelidir.
+47,Mersin,Myrtus_communis,Zehirli değil,Evet,Akdeniz,Mersin; herdem yeşil çalı; aromatik yaprak ve meyveleri baharat ve likör aroması olarak kullanılır.
+48,Zakkum,Nerium_oleander,Çok zehirli,Hayır,Akdeniz,Zakkum; pembe veya beyaz çiçekli süs çalısı; tüm kısımları kalp glikozitleri içerir ve çok zehirlidir.
+49,Delice Zeytin,Olea_europaea_var_sylvestris,Zehirli değil,Evet,Ege ve Akdeniz,Delice zeytin; kültür zeytinlerinin atası; küçük ve acı zeytinler verir; yağ için işlenir veya salamura sonrası yenir.
+50,Ağulu Mantar,Omphalotus_olearius,Zehirli,Hayır,Yapraklı ağaç kütükleri,Ağulu mantar; turuncu-sarı lamelli; çürüyen yapraklı ağaç kütüklerinde yetişir; yenildiğinde ciddi mide rahatsızlığına yol açar.
+51,Karaçalı,Paliurus_spina-christi,Zehirli değil,Evet,"Çatalca-Kocaeli, Marmara, Karadeniz, Ege, İç Anadolu ve Doğu Anadolu",Karaçalı; dikenli bir çalı; kanatlı kuru meyveleri hafif ekşi ve hoş tatlıdır; taze veya kurutulmuş yenir.
+52,Gelincik,Papaver_rhoeas,Zehirli değil,Evet (taçyapraklar ve taneler),Türkiye genelinde,Gelincik; kırmızı taç yapraklı yıllık bitki; taç yaprakları şurup ve tatlılarda kullanılır; tohumları çöreklerde serpilir.
+53,Doğu Ladini,Picea_orientalis,Zehirli değil,Hayır,Doğu Karadeniz,Doğu ladini; yüksek iğne yapraklı ağaç; kerestesi değerlidir; yenmez.
+54,Kızılçam,Pinus_brutia,Zehirli değil,Evet (tohumlar),Ege ve Akdeniz,Kızılçam; herdem yeşil kozalaklı ağaç; tohumları (çam fıstığı) yenir; reçinesi terebentin olarak kullanılır.
+55,Karaçam,Pinus_nigra,Zehirli değil,Evet (tohumlar),İç ve Batı Anadolu,Karaçam; iğne yapraklı ağaç; tohumları az miktarda yenir; ağaçlandırmada kullanılır.
+56,Fıstık Çamı,Pinus_pinea,Zehirli değil,Evet (tohumlar),Ege ve Akdeniz,Fıstık çamı; şemsiyeye benzeyen kozalaklı ağaç; tohumları ticari çam fıstığı olarak bilinir ve yetiştirilir.
+57,Sarıçam,Pinus_sylvestris,Zehirli değil,Evet (tohumlar),Kuzey Anadolu,Sarıçam; iğne yapraklı bir ağaç; tohumları yenebilir ancak küçüktür; odunu inşaatta kullanılır.
+58,Menengiç,Pistacia_terebinthus,Zehirli değil,Evet,Akdeniz ve Güneydoğu,Menengiç; antep fıstığı akrabası küçük ağaç; reçine ve küçük yemişler verir; kavrulup kahve gibi öğütülerek tüketilir.
+59,Sinir Otu,Plantago_major,Zehirli değil,Evet,Türkiye genelinde,Sinir otu; rozet oluşturan ot; genç yaprakları çiğ veya pişirilerek yenir; tohumları tıbbi amaçlarla kullanılır.
+60,Doğu Çınarı,Platanus_orientalis,Zehirli değil,Hayır,Türkiye genelinde (akarsu kenarları),Doğu çınarı; büyük bir yaprak döken ağaç; yenmez; dere ve yol kenarlarında gölge ağacı olarak yetiştirilir.
+61,İstiridye Mantarı,Pleurotus_ostreatus,Zehirli değil,Evet,Odun artıkları ve kütükler,İstiridye mantarı; gri-beyaz yelpaze şeklinde şapkalı; yenilebilir ve yetiştirilen bir mantar; ölü ağaçlarda yetişir.
+62,Madımak,Polygonum_cognatum,Zehirli değil,Evet,Orta Anadolu,Madımak; alçak boylu çok yıllık bir bitki; yaprak ve sürgünleri Orta Anadolu mutfağında sebze olarak kullanılır.
+63,Ak Kavak,Populus_alba,Zehirli değil,Hayır,Türkiye genelinde,Ak kavak; beyaz kabuklu yüksek yaprak döken ağaç; kereste ve rüzgar kıran olarak kullanılır; yenmez.
+64,Semizotu,Portulaca_oleracea,Zehirli değil,Evet,Türkiye genelinde,Semizotu; etli gövdeli tek yıllık bitki; yaprak ve sapları çiğ veya pişirilerek yenir; omega-3 açısından zengindir.
+65,Ateş Dikeni,Pyracantha_coccinea,Hafif zehirli,Hayır (meyveler işlenmeden),Bahçe ve çitlerde,Ateş dikeni; dikenli dallı herdem yeşil çalı; turuncu-kırmızı meyveleri süs bitkisidir; çiğ yenildiğinde hafif mide rahatsızlığına yol açabilir.
+66,Meşe,Quercus_spp,Zehirli değil,Evet (işlenmiş tohumlar),Türkiye genelinde,Meşe; tanenleri giderildikten sonra yenilebilen palamutlar üretir; hem yaban hayatı hem kereste açısından önemlidir.
+67,Ormangülü,Rhododendron_ponticum,Zehirli,Hayır,Doğu Karadeniz,Ormangülü; mor çiçekli herdem yeşil çalı; nektarı 'deli bal' zehirlenmesine neden olabilen grayanotoksinler içerir.
+68,Sumak,Rhus_coriaria,Zehirli değil,Evet,Güneydoğu Anadolu ve Akdeniz,Sumak; kırmızı meyveli bir çalı; kurutulup öğütülen meyveleri ekşi bir baharat olarak kullanılır.
+69,Kuşburnu,Rosa_canina,Zehirli değil,Evet,"Çatalca-Kocaeli, Marmara, Karadeniz, İç Anadolu, Doğu Anadolu",Kuşburnu; dikenli bir çalı; pembe çiçekleri ve C vitamini zengini kırmızı meyveleri çay ve şurup yapımında kullanılır.
+70,Şeytan Mantarı,Rubroboletus_satanas,Zehirli,Hayır,Geniş yapraklı ormanlar,Şeytan mantarı; kırmızı gözenekli büyük bir mantar; zehirli olup mide-bağırsak rahatsızlığına yol açar.
+71,Böğürtlen,Rubus_fruticosus,Zehirli değil,Evet,Türkiye genelinde,Böğürtlen; dikenli çalı; tatlı siyah meyveler verir; yaprakları çay olarak tüketilir.
+72,Ahududu,Rubus_idaeus,Zehirli değil,Evet,Karadeniz ve yüksek bölgeler,Ahududu; kamış formunda çalı; kırmızı taneli meyveler verir; kültür ve yabani formları vardır; yaprakları tıbbi amaçlarla kullanılır.
+73,Kuzu Kulağı,Rumex_acetosella,Zehirli değil,Evet,Türkiye genelinde,Kuzu kulağı; ekşi tatlı bir ot; yaprakları salata ve çorbalarda kullanılır; oksalat oranı yüksektir.
+74,Adaçayı,Salvia_fruticosa,Zehirli değil,Evet,Ege ve Akdeniz,Adaçayı; aromatik çok yıllık bitki; yaprakları çay ve baharat olarak kullanılır; gri-yeşil yapraklıdır.
+75,Biberiye,Salvia_rosmarinus,Zehirli değil,Evet,Marmara ve Akdeniz,Biberiye; odunsu herdem yeşil çalı; iğne biçimli yaprakları yemeklerde kullanılır; eskiden Rosmarinus officinalis olarak biliniyordu.
+76,Yabani Hardal,Sinapis_arvensis,Zehirli değil,Evet,Tarla ve yol kenarları,Yabani hardal; yıllık bir yabani ot; genç yaprakları ve tohumları yenilebilir; tohumlarından hardal yapılır.
+77,Katırtırnağı,Spartium_junceum,Hafif zehirli,Hayır,Akdeniz,Katırtırnağı; kokulu sarı çiçekli çalı; sitizin alkaloidi içerir; yenilmez.
+78,Karahindiba,Taraxacum_officinale,Zehirli değil,Evet,Türkiye genelinde,"Karahindiba; rozet oluşturan ot; yaprak, çiçek ve kökleri yenilebilir; salata ve bitki çayı olarak kullanılır."
+79,Porsuk Ağacı,Taxus_baccata,Çok zehirli,Hayır (aril hariç),Karadeniz,Porsuk ağacı; herdem yeşil iğne yapraklı ağaç; tohum ve yaprakları taxin alkaloidleri içerir; kırmızı etli meyve (aril) yenebilir ancak tohum zehirlidir.
+80,Kekik,Thymus_vulgaris,Zehirli değil,Evet,Ege ve Akdeniz,Kekik; düşük boylu aromatik çalı; yaprakları baharat ve bitki çayı olarak kullanılır.
+81,Ihlamur,Tilia_tomentosa,Zehirli değil,Evet,Marmara ve Karadeniz,Ihlamur; yüksek bir yaprak döken ağaç; hoş kokulu çiçekleri ıhlamur çayı için kullanılır; yapraklarının alt yüzeyi tüylüdür.
+82,Lale,Tulipa_spp,Zehirli değil,Bazı türlerin soğanı yenilebilir,Marmara ve İç Anadolu,Lale; soğanlı ve gösterişli çiçekli bitkiler; bazı türlerinin soğanları geçmişte yenmiş; bugün çoğunlukla süs bitkisidir.
+83,Isırgan Otu,Urtica_dioica,Zehirli değil,Evet,Türkiye genelinde,Isırgan otu; yakıcı tüyleri olan bir bitki; genç sürgünleri pişirilerek yenir; çorba ve böreklerde kullanılır.
+84,Yaban Mersini,Vaccinium_myrtillus,Zehirli değil,Evet,Karadeniz ve Doğu Anadolu,Yaban mersini; koyu mavi meyveler veren yaprak döken çalı; asidik topraklarda yetişir; meyveleri taze veya tatlılarda yenir.
+85,Sığırkuyruğu,Verbascum_spp,Zehirli değil,Hayır,Türkiye genelinde,"Sığırkuyruğu; sarı çiçekli, tüylü yapraklı yüksek iki yıllık otlar; yaprak ve çiçekleri tıbbi amaçlarla kullanılır; yenilmez."
+86,Gilaburu,Viburnum_opulus,Hafif zehirli,Evet (işlendikten sonra),İç Anadolu ve Karadeniz,Gilaburu; beyaz çiçek salkımları olan yaprak döken çalı; kırmızı meyveleri pişirilerek suyu yapılır; çiğ tüketildiğinde mide bulantısı yapabilir.

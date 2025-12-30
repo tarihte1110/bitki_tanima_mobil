@@ -1,0 +1,776 @@
+{
+    "Abies_nordmanniana_equi-trojani": {
+        "id": 1,
+        "turkishName": "Kazdağı Göknarı",
+        "scientificName": "Abies_nordmanniana_equi-trojani",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Kazdağı (Kaz Dağı) ve Kuzeybatı Türkiye",
+        "description": "Troya göknarı; 30–40 m'ye kadar uzayan herdem yeşil ağaç; dağ ormanlarında yetişir."
+    },
+    "Acer_pseudoplatanus": {
+        "id": 2,
+        "turkishName": "Dağ Akçaağacı",
+        "scientificName": "Acer_pseudoplatanus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (öz suyu)",
+        "geography": "Kuzey Anadolu",
+        "description": "Dağ akçaağacı; büyük yaprak döken ağaç; öz suyu şurup yapımında kullanılır; odunu müzik aletleri için değerlidir."
+    },
+    "Achillea_millefolium": {
+        "id": 3,
+        "turkishName": "Civanperçemi",
+        "scientificName": "Achillea_millefolium",
+        "toxicity": "Hafif toksik (aşırı kullanım)",
+        "edible": "Evet (genç yapraklar)",
+        "geography": "Marmara, Kuzey ve Doğu Anadolu",
+        "description": "Civanperçemi; tüylü yapraklı çok yıllık bir bitki; şifalı ot ve aroma verici olarak kullanılır."
+    },
+    "Alnus_glutinosa": {
+        "id": 4,
+        "turkishName": "Kızılağaç",
+        "scientificName": "Alnus_glutinosa",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Trakya, Marmara, Batı ve Doğu Karadeniz",
+        "description": "Kızılağaç; 20–30 m'ye kadar büyüyen ağaç; nemli topraklarda saf veya karışık ormanlar oluşturur."
+    },
+    "Amanita_caesarea": {
+        "id": 5,
+        "turkishName": "İmparator Mantarı",
+        "scientificName": "Amanita_caesarea",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Akdeniz ve Ege ormanları",
+        "description": "Turuncu şapkalı yenilebilen bir mantar; Akdeniz'de çok değerlidir; zehirli benzer türlerle karıştırılmamasına dikkat edilmelidir."
+    },
+    "Amanita_muscaria": {
+        "id": 6,
+        "turkishName": "Sinek Mantarı",
+        "scientificName": "Amanita_muscaria",
+        "toxicity": "Zehirli (halüsinojen)",
+        "edible": "Hayır",
+        "geography": "Ormanlar ve parklar",
+        "description": "Kırmızı şapkalı sinek mantarı; zehirli ve halüsinojeniktir; ağustos-kasım arasında orman ve parklarda görülür."
+    },
+    "Amanita_pantherina": {
+        "id": 7,
+        "turkishName": "Panter Mantarı",
+        "scientificName": "Amanita_pantherina",
+        "toxicity": "Zehirli",
+        "edible": "Hayır",
+        "geography": "Ormanlar",
+        "description": "Panter mantarı; kahverengi şapkasında beyaz benekler vardır; halüsinojenik ve zehirlidir; ormanlarda büyür."
+    },
+    "Amanita_phalloides": {
+        "id": 8,
+        "turkishName": "Köygöçüren",
+        "scientificName": "Amanita_phalloides",
+        "toxicity": "Çok zehirli",
+        "edible": "Hayır",
+        "geography": "Ormanlar",
+        "description": "Köygöçüren mantarı; zeytin yeşili şapkası vardır; ölümcül amatoksinler içerir; yenilebilir mantarlara benzer."
+    },
+    "Arbutus_unedo": {
+        "id": 9,
+        "turkishName": "Kocayemiş",
+        "scientificName": "Arbutus_unedo",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Marmara, Ege, Akdeniz ve Karadeniz",
+        "description": "Kocayemiş; herdem yeşil çalı veya ağaç; kırmızı meyveleri yenilebilir ve likör yapımında kullanılır; makiliklerde yetişir."
+    },
+    "Asparagus_acutifolius": {
+        "id": 10,
+        "turkishName": "Yabani Kuşkonmaz",
+        "scientificName": "Asparagus_acutifolius",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Akdeniz",
+        "description": "Yabani kuşkonmaz; dikenli çok yıllık bitki; ince sürgünleri yenilir; çalılıklarda yetişir."
+    },
+    "Asphodelus_aestivus": {
+        "id": 11,
+        "turkishName": "Çiriş Otu",
+        "scientificName": "Asphodelus_aestivus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Akdeniz ve Güneydoğu",
+        "description": "Çiriş otu; uzun çiçek sapları olan çok yıllık bir bitki; soğanı ve genç sürgünleri sebze olarak yenilir."
+    },
+    "Astragalus_spp": {
+        "id": 12,
+        "turkishName": "Geven",
+        "scientificName": "Astragalus_spp",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "İç Anadolu ve Doğu Anadolu",
+        "description": "Geven; dikenli baklagil bitkileri; kitre zamkı ve tıbbi amaçlarla kullanılır; genellikle yenmez."
+    },
+    "Atropa_belladonna": {
+        "id": 13,
+        "turkishName": "Güzelavrat Otu",
+        "scientificName": "Atropa_belladonna",
+        "toxicity": "Çok zehirli",
+        "edible": "Hayır",
+        "geography": "Nemli ormanlık alanlar",
+        "description": "Güzelavrat otu; mor çiçekli ve siyah meyveli çalı; tropan alkaloidler içerir; çok zehirlidir."
+    },
+    "Boletus_edulis": {
+        "id": 14,
+        "turkishName": "Ayı Mantarı",
+        "scientificName": "Boletus_edulis",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "İğne yapraklı ormanlar",
+        "description": "Ayı mantarı; büyük kahverengi mantar; yenilebilir ve çok değerlidir; çam ve ladin ormanlarında yetişir."
+    },
+    "Cantharellus_cibarius": {
+        "id": 15,
+        "turkishName": "Horoz Mantarı",
+        "scientificName": "Cantharellus_cibarius",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Iğne ve geniş yapraklı ormanlar",
+        "description": "Horoz mantarı; sarı huni şeklinde mantar; yenilebilir; karışık ormanlarda bulunur."
+    },
+    "Carpinus_betulus": {
+        "id": 16,
+        "turkishName": "Gürgen",
+        "scientificName": "Carpinus_betulus",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Kuzey Anadolu",
+        "description": "Gürgen; yaprak döken bir ağaç; sert odunu alet yapımında kullanılır; yenilebilir değildir."
+    },
+    "Castanea_sativa": {
+        "id": 17,
+        "turkishName": "Kestane",
+        "scientificName": "Castanea_sativa",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Karadeniz ve Marmara",
+        "description": "Kestane; yenilebilir tohumlar veren büyük bir yaprak döken ağaç; Türkiye'nin kuzeyinde ormanlar oluşturur."
+    },
+    "Cedrus_libani": {
+        "id": 18,
+        "turkishName": "Toros Sediri",
+        "scientificName": "Cedrus_libani",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Toros Dağları ve Lübnan",
+        "description": "Toros sediri; herdem yeşil iğne yapraklı ağaç; kerestesi değerlidir; yenmez."
+    },
+    "Centaurea_cyanus": {
+        "id": 19,
+        "turkishName": "Peygamber Çiçeği",
+        "scientificName": "Centaurea_cyanus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (çiçekler)",
+        "geography": "Tarla ve meralar",
+        "description": "Peygamber çiçeği; mavi çiçekli tek yıllık bitki; taç yaprakları dekoratif olarak yenilir ve çay yapılır."
+    },
+    "Ceratonia_siliqua": {
+        "id": 20,
+        "turkishName": "Keçiboynuzu",
+        "scientificName": "Ceratonia_siliqua",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Ege ve Akdeniz",
+        "description": "Keçiboynuzu; baklaları tatlı posalıdır ve keçiboynuzu unu ile şurubu yapılır; Akdeniz kıyılarında yetişir."
+    },
+    "Cercis_siliquastrum": {
+        "id": 21,
+        "turkishName": "Erguvan",
+        "scientificName": "Cercis_siliquastrum",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (tomurcuklar)",
+        "geography": "Marmara ve Ege",
+        "description": "Erguvan; pembe çiçekli süs ağacı; çiçek tomurcukları turşu yapılarak veya salatalarda kullanılır."
+    },
+    "Chenopodium_album": {
+        "id": 22,
+        "turkishName": "Sirken",
+        "scientificName": "Chenopodium_album",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Sirken; yıllık bir yabani ot; ıspanak benzeri yaprakları yenilebilir; işlenmiş topraklarda yetişir."
+    },
+    "Colchicum_autumnale": {
+        "id": 23,
+        "turkishName": "Acı Çiğdem",
+        "scientificName": "Colchicum_autumnale",
+        "toxicity": "Çok zehirli",
+        "edible": "Hayır",
+        "geography": "Dağ çayırları",
+        "description": "Acı çiğdem; kolşisin adlı zehirli bir alkaloid içerir; safran benzerine rağmen tüm kısımları zehirlidir."
+    },
+    "Conium_maculatum": {
+        "id": 24,
+        "turkishName": "Baldıran",
+        "scientificName": "Conium_maculatum",
+        "toxicity": "Çok zehirli",
+        "edible": "Hayır",
+        "geography": "Nemli alanlar",
+        "description": "Baldıran; gövdeleri mor lekeli iki yıllık ot; koniin alkaloidi içerir; yenildiğinde ölümcüldür."
+    },
+    "Cornus_mas": {
+        "id": 25,
+        "turkishName": "Kızılcık",
+        "scientificName": "Cornus_mas",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Karadeniz ve Marmara",
+        "description": "Kızılcık; ekşi kırmızı meyveleri reçel ve şurup yapımında kullanılan ağaççık/çalı."
+    },
+    "Corylus_avellana": {
+        "id": 26,
+        "turkishName": "Fındık",
+        "scientificName": "Corylus_avellana",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Karadeniz",
+        "description": "Fındık; yenilebilir fındıklar veren ağaç; nemli ormanlarda ocaklar oluşturur."
+    },
+    "Crataegus_monogyna": {
+        "id": 27,
+        "turkishName": "Alıç",
+        "scientificName": "Crataegus_monogyna",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Alıç; beyaz çiçekli çalı veya küçük ağaç; kırmızı meyveleri marmelat ve şifalı çay yapımında kullanılır."
+    },
+    "Crocus_spp": {
+        "id": 28,
+        "turkishName": "Çiğdem",
+        "scientificName": "Crocus_spp",
+        "toxicity": "Zehirli türler de var",
+        "edible": "Bazı türler (safran) yenilebilir",
+        "geography": "İç Anadolu, Ege",
+        "description": "Çiğdem; safran baharatını veren Crocus sativus dahil olmak üzere birçok tür içerir; bazı süs türleri zehirli olabilir."
+    },
+    "Cyclamen_spp": {
+        "id": 29,
+        "turkishName": "Siklamen",
+        "scientificName": "Cyclamen_spp",
+        "toxicity": "Hafif zehirli",
+        "edible": "Hayır",
+        "geography": "Marmara ve Akdeniz",
+        "description": "Siklamen; baş aşağı duran çiçekli yumrulu bitkiler; yumruları saponin içerir ve yenmez."
+    },
+    "Digitalis_purpurea": {
+        "id": 30,
+        "turkishName": "Yüksük Otu",
+        "scientificName": "Digitalis_purpurea",
+        "toxicity": "Çok zehirli",
+        "edible": "Hayır",
+        "geography": "Nemli orman açıklıkları",
+        "description": "Yüksük otu; mor çiçekli iki yıllık bitki; yaprakları kalp glikozitleri içerir; zehirlidir."
+    },
+    "Elaeagnus_angustifolia": {
+        "id": 31,
+        "turkishName": "İğde",
+        "scientificName": "Elaeagnus_angustifolia",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "İç ve Doğu Anadolu",
+        "description": "İğde; gümüşi yapraklı küçük ağaç; hoş kokulu çiçekleri ve tatlı yenilebilir meyveleri vardır."
+    },
+    "Erica_arborea": {
+        "id": 32,
+        "turkishName": "Funda",
+        "scientificName": "Erica_arborea",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Akdeniz",
+        "description": "Funda; küçük beyaz çiçekleri olan herdem yeşil çalı; pipo yapımında kullanılan odunu vardır; yenmez."
+    },
+    "Fagus_orientalis": {
+        "id": 33,
+        "turkishName": "Doğu Kayını",
+        "scientificName": "Fagus_orientalis",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (tohumlar sınırlı kullanım)",
+        "geography": "Karadeniz",
+        "description": "Doğu kayını; büyük yaprak döken ağaç; tohumları az miktarda yenebilir; sık ormanlar oluşturur."
+    },
+    "Fragaria_vesca": {
+        "id": 34,
+        "turkishName": "Yabani Çilek",
+        "scientificName": "Fragaria_vesca",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Ormanlık alanlar",
+        "description": "Yabani çilek; alçak boylu bir bitki; tatlı kırmızı meyveler verir; yaprakları çay olarak kullanılır."
+    },
+    "Fraxinus_ornus": {
+        "id": 35,
+        "turkishName": "Çiçekli Dişbudak",
+        "scientificName": "Fraxinus_ornus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (manna)",
+        "geography": "Güneybatı Anadolu",
+        "description": "Çiçekli dişbudak; küçük bir ağaç; tatlı sakız (manna) salgılar ve hafif müshil olarak kullanılır; süs ağacıdır."
+    },
+    "Galanthus_spp": {
+        "id": 36,
+        "turkishName": "Kardelen",
+        "scientificName": "Galanthus_spp",
+        "toxicity": "Hafif zehirli",
+        "edible": "Hayır",
+        "geography": "Karadeniz ve Marmara",
+        "description": "Kardelen; beyaz sarkık çiçekli soğanlı bitkiler; alkaloid içerir ve yenilmez."
+    },
+    "Gyromitra_esculenta": {
+        "id": 37,
+        "turkishName": "Beyin Mantarı",
+        "scientificName": "Gyromitra_esculenta",
+        "toxicity": "Zehirli",
+        "edible": "Hayır",
+        "geography": "İğne yapraklı ormanlar",
+        "description": "Beyin mantarı; kıvrımlı kızıl kahverengi şapkası vardır; metil hidrazin içerir; çiğ veya az pişmiş tüketildiğinde zehirlidir."
+    },
+    "Hypericum_perforatum": {
+        "id": 38,
+        "turkishName": "Sarı Kantaron",
+        "scientificName": "Hypericum_perforatum",
+        "toxicity": "Hafif zehirli",
+        "edible": "Hayır",
+        "geography": "Türkiye genelinde",
+        "description": "Sarı kantaron; sarı çiçekli şifalı ot; içeriğindeki bileşikler hayvanlarda ışığa duyarlılık yapabilir."
+    },
+    "Juniperus_excelsa": {
+        "id": 39,
+        "turkishName": "Boylu Ardıç",
+        "scientificName": "Juniperus_excelsa",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (meyve)",
+        "geography": "Doğu ve Güney Anadolu",
+        "description": "Boylu ardıç; iğne yapraklı bir ağaç; mavimsi meyveleri baharat ve tıbbi amaçlarla kullanılır."
+    },
+    "Lactarius_deliciosus": {
+        "id": 40,
+        "turkishName": "Kanlıca Mantarı",
+        "scientificName": "Lactarius_deliciosus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Aegean, Akdeniz ve Batı Karadeniz",
+        "description": "Kanlıca mantarı; havuç rengi süt salgılayan turuncu şapkalı mantar; yenilebilir ve Türkiye'de popülerdir; çamların altında yetişir."
+    },
+    "Laurus_nobilis": {
+        "id": 41,
+        "turkishName": "Defne",
+        "scientificName": "Laurus_nobilis",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Marmara, Ege ve Akdeniz",
+        "description": "Defne; herdem yeşil ağaç; aromatik yaprakları baharat olarak kullanılır; meyvelerinden defne yağı elde edilir."
+    },
+    "Liquidambar_orientalis": {
+        "id": 42,
+        "turkishName": "Sığla Ağacı",
+        "scientificName": "Liquidambar_orientalis",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Güneybatı Anadolu (Muğla, Denizli)",
+        "description": "Sığla ağacı; yaprak döken ağaç; hoş kokulu reçine üretir; parfüm ve geleneksel tıpta kullanılır."
+    },
+    "Malva_sylvestris": {
+        "id": 43,
+        "turkishName": "Ebegümeci",
+        "scientificName": "Malva_sylvestris",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Ebegümeci; mor çiçekli bir ot; genç yaprakları ve çiçekleri salata veya yemeklerde yenir."
+    },
+    "Matricaria_recutita": {
+        "id": 44,
+        "turkishName": "Papatya",
+        "scientificName": "Matricaria_recutita",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Papatya; papatya benzeri bitki; çiçekleri sakinleştirici çay ve tıbbi amaçlarla kullanılır."
+    },
+    "Mentha_longifolia": {
+        "id": 45,
+        "turkishName": "Yabani Nane",
+        "scientificName": "Mentha_longifolia",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Yabani nane; aromatik çok yıllık bitki; yaprakları çay ve tatlandırıcı olarak kullanılır; dere kenarlarında yetişir."
+    },
+    "Morchella_esculenta": {
+        "id": 46,
+        "turkishName": "Kuzu Göbeği",
+        "scientificName": "Morchella_esculenta",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Ormanlık alanlar",
+        "description": "Kuzu göbeği mantarı; petek benzeri şapkalı; yenilebilir ve çok değerlidir; yemeden önce pişirilmelidir."
+    },
+    "Myrtus_communis": {
+        "id": 47,
+        "turkishName": "Mersin",
+        "scientificName": "Myrtus_communis",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Akdeniz",
+        "description": "Mersin; herdem yeşil çalı; aromatik yaprak ve meyveleri baharat ve likör aroması olarak kullanılır."
+    },
+    "Nerium_oleander": {
+        "id": 48,
+        "turkishName": "Zakkum",
+        "scientificName": "Nerium_oleander",
+        "toxicity": "Çok zehirli",
+        "edible": "Hayır",
+        "geography": "Akdeniz",
+        "description": "Zakkum; pembe veya beyaz çiçekli süs çalısı; tüm kısımları kalp glikozitleri içerir ve çok zehirlidir."
+    },
+    "Olea_europaea_var_sylvestris": {
+        "id": 49,
+        "turkishName": "Delice Zeytin",
+        "scientificName": "Olea_europaea_var_sylvestris",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Ege ve Akdeniz",
+        "description": "Delice zeytin; kültür zeytinlerinin atası; küçük ve acı zeytinler verir; yağ için işlenir veya salamura sonrası yenir."
+    },
+    "Omphalotus_olearius": {
+        "id": 50,
+        "turkishName": "Ağulu Mantar",
+        "scientificName": "Omphalotus_olearius",
+        "toxicity": "Zehirli",
+        "edible": "Hayır",
+        "geography": "Yapraklı ağaç kütükleri",
+        "description": "Ağulu mantar; turuncu-sarı lamelli; çürüyen yapraklı ağaç kütüklerinde yetişir; yenildiğinde ciddi mide rahatsızlığına yol açar."
+    },
+    "Paliurus_spina-christi": {
+        "id": 51,
+        "turkishName": "Karaçalı",
+        "scientificName": "Paliurus_spina-christi",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Çatalca-Kocaeli, Marmara, Karadeniz, Ege, İç Anadolu ve Doğu Anadolu",
+        "description": "Karaçalı; dikenli bir çalı; kanatlı kuru meyveleri hafif ekşi ve hoş tatlıdır; taze veya kurutulmuş yenir."
+    },
+    "Papaver_rhoeas": {
+        "id": 52,
+        "turkishName": "Gelincik",
+        "scientificName": "Papaver_rhoeas",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (taçyapraklar ve taneler)",
+        "geography": "Türkiye genelinde",
+        "description": "Gelincik; kırmızı taç yapraklı yıllık bitki; taç yaprakları şurup ve tatlılarda kullanılır; tohumları çöreklerde serpilir."
+    },
+    "Picea_orientalis": {
+        "id": 53,
+        "turkishName": "Doğu Ladini",
+        "scientificName": "Picea_orientalis",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Doğu Karadeniz",
+        "description": "Doğu ladini; yüksek iğne yapraklı ağaç; kerestesi değerlidir; yenmez."
+    },
+    "Pinus_brutia": {
+        "id": 54,
+        "turkishName": "Kızılçam",
+        "scientificName": "Pinus_brutia",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (tohumlar)",
+        "geography": "Ege ve Akdeniz",
+        "description": "Kızılçam; herdem yeşil kozalaklı ağaç; tohumları (çam fıstığı) yenir; reçinesi terebentin olarak kullanılır."
+    },
+    "Pinus_nigra": {
+        "id": 55,
+        "turkishName": "Karaçam",
+        "scientificName": "Pinus_nigra",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (tohumlar)",
+        "geography": "İç ve Batı Anadolu",
+        "description": "Karaçam; iğne yapraklı ağaç; tohumları az miktarda yenir; ağaçlandırmada kullanılır."
+    },
+    "Pinus_pinea": {
+        "id": 56,
+        "turkishName": "Fıstık Çamı",
+        "scientificName": "Pinus_pinea",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (tohumlar)",
+        "geography": "Ege ve Akdeniz",
+        "description": "Fıstık çamı; şemsiyeye benzeyen kozalaklı ağaç; tohumları ticari çam fıstığı olarak bilinir ve yetiştirilir."
+    },
+    "Pinus_sylvestris": {
+        "id": 57,
+        "turkishName": "Sarıçam",
+        "scientificName": "Pinus_sylvestris",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (tohumlar)",
+        "geography": "Kuzey Anadolu",
+        "description": "Sarıçam; iğne yapraklı bir ağaç; tohumları yenebilir ancak küçüktür; odunu inşaatta kullanılır."
+    },
+    "Pistacia_terebinthus": {
+        "id": 58,
+        "turkishName": "Menengiç",
+        "scientificName": "Pistacia_terebinthus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Akdeniz ve Güneydoğu",
+        "description": "Menengiç; antep fıstığı akrabası küçük ağaç; reçine ve küçük yemişler verir; kavrulup kahve gibi öğütülerek tüketilir."
+    },
+    "Plantago_major": {
+        "id": 59,
+        "turkishName": "Sinir Otu",
+        "scientificName": "Plantago_major",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Sinir otu; rozet oluşturan ot; genç yaprakları çiğ veya pişirilerek yenir; tohumları tıbbi amaçlarla kullanılır."
+    },
+    "Platanus_orientalis": {
+        "id": 60,
+        "turkishName": "Doğu Çınarı",
+        "scientificName": "Platanus_orientalis",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Türkiye genelinde (akarsu kenarları)",
+        "description": "Doğu çınarı; büyük bir yaprak döken ağaç; yenmez; dere ve yol kenarlarında gölge ağacı olarak yetiştirilir."
+    },
+    "Pleurotus_ostreatus": {
+        "id": 61,
+        "turkishName": "İstiridye Mantarı",
+        "scientificName": "Pleurotus_ostreatus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Odun artıkları ve kütükler",
+        "description": "İstiridye mantarı; gri-beyaz yelpaze şeklinde şapkalı; yenilebilir ve yetiştirilen bir mantar; ölü ağaçlarda yetişir."
+    },
+    "Polygonum_cognatum": {
+        "id": 62,
+        "turkishName": "Madımak",
+        "scientificName": "Polygonum_cognatum",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Orta Anadolu",
+        "description": "Madımak; alçak boylu çok yıllık bir bitki; yaprak ve sürgünleri Orta Anadolu mutfağında sebze olarak kullanılır."
+    },
+    "Populus_alba": {
+        "id": 63,
+        "turkishName": "Ak Kavak",
+        "scientificName": "Populus_alba",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Türkiye genelinde",
+        "description": "Ak kavak; beyaz kabuklu yüksek yaprak döken ağaç; kereste ve rüzgar kıran olarak kullanılır; yenmez."
+    },
+    "Portulaca_oleracea": {
+        "id": 64,
+        "turkishName": "Semizotu",
+        "scientificName": "Portulaca_oleracea",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Semizotu; etli gövdeli tek yıllık bitki; yaprak ve sapları çiğ veya pişirilerek yenir; omega-3 açısından zengindir."
+    },
+    "Pyracantha_coccinea": {
+        "id": 65,
+        "turkishName": "Ateş Dikeni",
+        "scientificName": "Pyracantha_coccinea",
+        "toxicity": "Hafif zehirli",
+        "edible": "Hayır (meyveler işlenmeden)",
+        "geography": "Bahçe ve çitlerde",
+        "description": "Ateş dikeni; dikenli dallı herdem yeşil çalı; turuncu-kırmızı meyveleri süs bitkisidir; çiğ yenildiğinde hafif mide rahatsızlığına yol açabilir."
+    },
+    "Quercus_spp": {
+        "id": 66,
+        "turkishName": "Meşe",
+        "scientificName": "Quercus_spp",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet (işlenmiş tohumlar)",
+        "geography": "Türkiye genelinde",
+        "description": "Meşe; tanenleri giderildikten sonra yenilebilen palamutlar üretir; hem yaban hayatı hem kereste açısından önemlidir."
+    },
+    "Rhododendron_ponticum": {
+        "id": 67,
+        "turkishName": "Ormangülü",
+        "scientificName": "Rhododendron_ponticum",
+        "toxicity": "Zehirli",
+        "edible": "Hayır",
+        "geography": "Doğu Karadeniz",
+        "description": "Ormangülü; mor çiçekli herdem yeşil çalı; nektarı 'deli bal' zehirlenmesine neden olabilen grayanotoksinler içerir."
+    },
+    "Rhus_coriaria": {
+        "id": 68,
+        "turkishName": "Sumak",
+        "scientificName": "Rhus_coriaria",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Güneydoğu Anadolu ve Akdeniz",
+        "description": "Sumak; kırmızı meyveli bir çalı; kurutulup öğütülen meyveleri ekşi bir baharat olarak kullanılır."
+    },
+    "Rosa_canina": {
+        "id": 69,
+        "turkishName": "Kuşburnu",
+        "scientificName": "Rosa_canina",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Çatalca-Kocaeli, Marmara, Karadeniz, İç Anadolu, Doğu Anadolu",
+        "description": "Kuşburnu; dikenli bir çalı; pembe çiçekleri ve C vitamini zengini kırmızı meyveleri çay ve şurup yapımında kullanılır."
+    },
+    "Rubroboletus_satanas": {
+        "id": 70,
+        "turkishName": "Şeytan Mantarı",
+        "scientificName": "Rubroboletus_satanas",
+        "toxicity": "Zehirli",
+        "edible": "Hayır",
+        "geography": "Geniş yapraklı ormanlar",
+        "description": "Şeytan mantarı; kırmızı gözenekli büyük bir mantar; zehirli olup mide-bağırsak rahatsızlığına yol açar."
+    },
+    "Rubus_fruticosus": {
+        "id": 71,
+        "turkishName": "Böğürtlen",
+        "scientificName": "Rubus_fruticosus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Böğürtlen; dikenli çalı; tatlı siyah meyveler verir; yaprakları çay olarak tüketilir."
+    },
+    "Rubus_idaeus": {
+        "id": 72,
+        "turkishName": "Ahududu",
+        "scientificName": "Rubus_idaeus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Karadeniz ve yüksek bölgeler",
+        "description": "Ahududu; kamış formunda çalı; kırmızı taneli meyveler verir; kültür ve yabani formları vardır; yaprakları tıbbi amaçlarla kullanılır."
+    },
+    "Rumex_acetosella": {
+        "id": 73,
+        "turkishName": "Kuzu Kulağı",
+        "scientificName": "Rumex_acetosella",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Kuzu kulağı; ekşi tatlı bir ot; yaprakları salata ve çorbalarda kullanılır; oksalat oranı yüksektir."
+    },
+    "Salvia_fruticosa": {
+        "id": 74,
+        "turkishName": "Adaçayı",
+        "scientificName": "Salvia_fruticosa",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Ege ve Akdeniz",
+        "description": "Adaçayı; aromatik çok yıllık bitki; yaprakları çay ve baharat olarak kullanılır; gri-yeşil yapraklıdır."
+    },
+    "Salvia_rosmarinus": {
+        "id": 75,
+        "turkishName": "Biberiye",
+        "scientificName": "Salvia_rosmarinus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Marmara ve Akdeniz",
+        "description": "Biberiye; odunsu herdem yeşil çalı; iğne biçimli yaprakları yemeklerde kullanılır; eskiden Rosmarinus officinalis olarak biliniyordu."
+    },
+    "Sinapis_arvensis": {
+        "id": 76,
+        "turkishName": "Yabani Hardal",
+        "scientificName": "Sinapis_arvensis",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Tarla ve yol kenarları",
+        "description": "Yabani hardal; yıllık bir yabani ot; genç yaprakları ve tohumları yenilebilir; tohumlarından hardal yapılır."
+    },
+    "Spartium_junceum": {
+        "id": 77,
+        "turkishName": "Katırtırnağı",
+        "scientificName": "Spartium_junceum",
+        "toxicity": "Hafif zehirli",
+        "edible": "Hayır",
+        "geography": "Akdeniz",
+        "description": "Katırtırnağı; kokulu sarı çiçekli çalı; sitizin alkaloidi içerir; yenilmez."
+    },
+    "Taraxacum_officinale": {
+        "id": 78,
+        "turkishName": "Karahindiba",
+        "scientificName": "Taraxacum_officinale",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Karahindiba; rozet oluşturan ot; yaprak, çiçek ve kökleri yenilebilir; salata ve bitki çayı olarak kullanılır."
+    },
+    "Taxus_baccata": {
+        "id": 79,
+        "turkishName": "Porsuk Ağacı",
+        "scientificName": "Taxus_baccata",
+        "toxicity": "Çok zehirli",
+        "edible": "Hayır (aril hariç)",
+        "geography": "Karadeniz",
+        "description": "Porsuk ağacı; herdem yeşil iğne yapraklı ağaç; tohum ve yaprakları taxin alkaloidleri içerir; kırmızı etli meyve (aril) yenebilir ancak tohum zehirlidir."
+    },
+    "Thymus_vulgaris": {
+        "id": 80,
+        "turkishName": "Kekik",
+        "scientificName": "Thymus_vulgaris",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Ege ve Akdeniz",
+        "description": "Kekik; düşük boylu aromatik çalı; yaprakları baharat ve bitki çayı olarak kullanılır."
+    },
+    "Tilia_tomentosa": {
+        "id": 81,
+        "turkishName": "Ihlamur",
+        "scientificName": "Tilia_tomentosa",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Marmara ve Karadeniz",
+        "description": "Ihlamur; yüksek bir yaprak döken ağaç; hoş kokulu çiçekleri ıhlamur çayı için kullanılır; yapraklarının alt yüzeyi tüylüdür."
+    },
+    "Tulipa_spp": {
+        "id": 82,
+        "turkishName": "Lale",
+        "scientificName": "Tulipa_spp",
+        "toxicity": "Zehirli değil",
+        "edible": "Bazı türlerin soğanı yenilebilir",
+        "geography": "Marmara ve İç Anadolu",
+        "description": "Lale; soğanlı ve gösterişli çiçekli bitkiler; bazı türlerinin soğanları geçmişte yenmiş; bugün çoğunlukla süs bitkisidir."
+    },
+    "Urtica_dioica": {
+        "id": 83,
+        "turkishName": "Isırgan Otu",
+        "scientificName": "Urtica_dioica",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Türkiye genelinde",
+        "description": "Isırgan otu; yakıcı tüyleri olan bir bitki; genç sürgünleri pişirilerek yenir; çorba ve böreklerde kullanılır."
+    },
+    "Vaccinium_myrtillus": {
+        "id": 84,
+        "turkishName": "Yaban Mersini",
+        "scientificName": "Vaccinium_myrtillus",
+        "toxicity": "Zehirli değil",
+        "edible": "Evet",
+        "geography": "Karadeniz ve Doğu Anadolu",
+        "description": "Yaban mersini; koyu mavi meyveler veren yaprak döken çalı; asidik topraklarda yetişir; meyveleri taze veya tatlılarda yenir."
+    },
+    "Verbascum_spp": {
+        "id": 85,
+        "turkishName": "Sığırkuyruğu",
+        "scientificName": "Verbascum_spp",
+        "toxicity": "Zehirli değil",
+        "edible": "Hayır",
+        "geography": "Türkiye genelinde",
+        "description": "Sığırkuyruğu; sarı çiçekli, tüylü yapraklı yüksek iki yıllık otlar; yaprak ve çiçekleri tıbbi amaçlarla kullanılır; yenilmez."
+    },
+    "Viburnum_opulus": {
+        "id": 86,
+        "turkishName": "Gilaburu",
+        "scientificName": "Viburnum_opulus",
+        "toxicity": "Hafif zehirli",
+        "edible": "Evet (işlendikten sonra)",
+        "geography": "İç Anadolu ve Karadeniz",
+        "description": "Gilaburu; beyaz çiçek salkımları olan yaprak döken çalı; kırmızı meyveleri pişirilerek suyu yapılır; çiğ tüketildiğinde mide bulantısı yapabilir."
+    }
+}
